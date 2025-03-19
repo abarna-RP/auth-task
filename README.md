@@ -75,12 +75,5 @@ Headers:
           "__v": 0
         }
         ```
-    
 
-## Important Notes
-
-* **Security:** Ensure that the `JWT_SECRET` is kept confidential and is a strong, random string.
-* **Error Handling:** Implement robust error handling and validation in a production environment.
-* **Token Expiration:** Adjust the JWT expiration time as needed.
-* **Database:** Ensure that your MongoDB instance is running and accessible.
 * ![alt image](https://github.com/abarna-RP/auth-task/blob/main/auth%20outpt.png)
