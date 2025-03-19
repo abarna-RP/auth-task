@@ -83,4 +83,4 @@ Headers:
 * **Error Handling:** Implement robust error handling and validation in a production environment.
 * **Token Expiration:** Adjust the JWT expiration time as needed.
 * **Database:** Ensure that your MongoDB instance is running and accessible.
-* ![alt image]()
+* ![alt image](https://github.com/abarna-RP/auth-task/blob/main/auth%20outpt.png)
